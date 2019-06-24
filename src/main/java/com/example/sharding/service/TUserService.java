@@ -1,4 +1,4 @@
-package com.example.sharding.mapper.service;
+package com.example.sharding.service;
 
 import com.example.sharding.entity.TUser;
 

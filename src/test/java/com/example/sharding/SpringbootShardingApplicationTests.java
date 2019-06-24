@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 import com.example.sharding.entity.TUser;
-import com.example.sharding.mapper.service.TUserService;
+import com.example.sharding.service.TUserService;
 import lombok.extern.slf4j.Slf4j;
 
 @RunWith(SpringRunner.class)
